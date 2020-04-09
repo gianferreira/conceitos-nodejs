@@ -1,0 +1,16 @@
+{
+  "name": "gostack11-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Gian Ferreira <56806058+gianferreira@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
