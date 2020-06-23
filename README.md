@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Node.js" src="https://github.com/gianferreira/gostack11-backend/blob/master/node.png" width="120px"/>
+  <img alt="Node.js" src="https://github.com/gianferreira/conceitos-nodejs/blob/master/readme-logo.png" width="120px"/>
 </h3>
 
 <h1 align="center">
@@ -9,28 +9,28 @@
 <p align="center">Primeiros conceitos do Node.js aplicados na construção de uma API.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/gostack11-backend">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/gostack11-backend">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/gostack11-backend">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/conceitos-nodejs">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/conceitos-nodejs">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/conceitos-nodejs">
 </p>
 
 ## Sobre:
 
-API simples em node.js que realiza o cadastro e manutenção de projetos. A estrutura de cada um desses projetos é composta por seu `id`, `title` e `owner`. 
+API desenvolvida em Node.js que realiza o cadastro e manutenção de projetos. A estrutura de cada um desses projetos é composta por seu `id`, `title` e `owner`. 
 
 ## Tecnologias utilizadas:
 
-- Node.js
-- Yarn
-- Express
-- Nodemon
+- node.js
+- yarn
+- express
+- nodemon
 
 ## Instalação e execução:
 
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/gostack11-backend
+$ git clone https://github.com/gianferreira/conceitos-nodejs
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
@@ -62,6 +62,6 @@ yarn dev
 <blockquote align="center">
   Este projeto foi desenvolvimento durante o 
     <a href="https://rocketseat.com.br/gostack">
-      Gostack 11.0 da RocketSeat
+      Bootcamp da RocketSeat
     </a>
 </blockquote>
